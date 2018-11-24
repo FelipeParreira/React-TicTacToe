@@ -1,3 +1,9 @@
+# React Tic-Tac-Toe
+
+This is a tic-tac-toe game app developed with React by following the instructions in the [tutorial](https://reactjs.org/tutorial/tutorial.html#lifting-state-up-again) available in React's official website. 
+
+All the extra-features (enumerated in the [Wrapping Up](https://reactjs.org/tutorial/tutorial.html#wrapping-up) section) were also implemented.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
